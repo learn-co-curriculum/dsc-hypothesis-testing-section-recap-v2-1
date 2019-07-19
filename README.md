@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This short lesson summarizes the topics we covered in section 20 and why they'll be important to you as a data scientist.
+You just learned how to create an experiment and interpret the results! Let's review some of the specific things you have learned.
 
 ## Objectives
 You will be able to:
