@@ -23,3 +23,5 @@ Some of the key takeaways from this section include:
 * Type 1 errors (false positives) are when we accept an alternative hypothesis which is actually false
 * The $\alpha$ that we pick is the likelihood that we will get a type 1 error due to random chance
 * Type 2 errors (false negatives) are when we reject an alternative hypothesis which is actually true
+* Resampling methods allow for improved precision in estimating sample statistics and validating models by using random subsets
+* Common resampling techniques include bootstrapping, jackknifing and permutation tests
