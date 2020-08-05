@@ -15,13 +15,13 @@ Some of the key takeaways from this section include:
 * Your sample size needs to be selected carefully to ensure your results have a good chance of being statistically significant
 * Your results should be reproducible by other people and using different samples from the population
 * The p-value for an outcome determines how likely it is that the outcome could occur under the null hypothesis
-* $\alpha$ is the marginal threshold at which we're comfortable rejecting the null hypothesis
-* An $\alpha$ value of 0.05 is a common choice for many experiments
+*  <img src="https://render.githubusercontent.com/render/math?math=\alpha"> is the marginal threshold at which we're comfortable rejecting the null hypothesis
+* An  <img src="https://render.githubusercontent.com/render/math?math=\alpha"> value of 0.05 is a common choice for many experiments
 * Effect size measures just the size of the difference between two groups under observation, whereas statistical significance combines effect size with sample size
 * A one sample t-test is used to determine whether a sample comes from a population with a specific mean 
 * A two sample t-test is used to determine if two population means are equal
 * Type 1 errors (false positives) are when we accept an alternative hypothesis which is actually false
-* The $\alpha$ that we pick is the likelihood that we will get a type 1 error due to random chance
+* The  <img src="https://render.githubusercontent.com/render/math?math=\alpha"> that we pick is the likelihood that we will get a type 1 error due to random chance
 * Type 2 errors (false negatives) are when we reject an alternative hypothesis which is actually true
 * Resampling methods allow for improved precision in estimating sample statistics and validating models by using random subsets
 * Common resampling techniques include bootstrapping, jackknifing and permutation tests
